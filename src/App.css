@@ -76,3 +76,7 @@
 .right-controls {
   right: 0;
 }
+
+.diagram-container {
+  margin-top: 10px;
+}
